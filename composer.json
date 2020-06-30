@@ -1,15 +1,20 @@
 {
-	"name": "cosenary/instagram",
+	"name": "imbin/instagram-php",
 	"type": "library",
 	"description": "An easy-to-use PHP Class for accessing Instagram's API.",
 	"keywords": ["instagram", "api"],
-	"homepage": "https://github.com/cosenary/Instagram-PHP-API",
+	"homepage": "https://github.com/imbin/instagram-php",
 	"license": "BSD",
 	"authors": [
 		{
 			"name": "Christian Metz",
 			"email": "christian-metz1@gmx.net",
 			"homepage": "http://metzweb.net"
+		},
+		{
+			"name": "Tobin Zhao",
+			"email": "tobinzhao@gmail.com",
+			"homepage": "https://www.cnblogs.com/imbin"
 		}
 	],
 	"require": {
